@@ -1,4 +1,4 @@
-object PlanetAgeCalculator {
+object PlanetAgeCalculatorApp {
 
   def main(args: Array[String]): Unit = {
     val seconds: Long = 1000000000
